@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#31A41F</headerColor>
+        <logo>ChatGPT_Image_3_nov_2025_11_33_59_a</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
+    </brand>
+    <description>App to schedule appointments with various doctors</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
+    <label>Appointments</label>
+    <navType>Standard</navType>
+    <tabs>standard-ApprovalsHome</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Appointments_UtilityBar</utilityBar>
+</CustomApplication>
